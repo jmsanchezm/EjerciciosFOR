@@ -10,6 +10,7 @@ public class Ejercicio7 {
 		System.out.println("Introduzca un número para calcular su factorial: ");
 		num=read.nextInt();
 		for (int i =num-1;i>0;i--){
+			
 			num*=i;
 
 		}
